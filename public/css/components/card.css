@@ -1,0 +1,63 @@
+.card {
+  background-color: #063230 !important;
+  border-color: white !important;
+  border-radius: 0.25rem;
+  color: #ffcb00; }
+  .card .card-span {
+    font-size: 1.2rem; }
+
+.prods {
+  margin-top: -5% !important;
+  z-index: 40000; }
+
+.card:hover {
+  background-color: #ffffff26 !important;
+  border-color: black !important;
+  border-radius: 0.25rem; }
+  .card:hover .card-span {
+    font-size: 1.2rem;
+    color: #ffcb00; }
+
+.userCard {
+  display: flex;
+  flex-direction: column;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 1rem;
+  font-size: large;
+  padding: 2rem;
+  align-items: center;
+  text-align: center; }
+
+.box {
+  padding: 1rem;
+  background-color: white; }
+
+.sec-sectioon {
+  background-color: white;
+  margin: 2rem;
+  width: 100%; }
+
+.some {
+  position: relative; }
+
+.some img:hover {
+  transition-property: transform;
+  transition-duration: 250ms;
+  transition-timing-function: ease;
+  transition-delay: 0s; }
+
+.hide {
+  display: none; }
+
+.hided:hover {
+  display: flex; }
+
+.login {
+  background-color: #063230 !important;
+  border-color: white !important;
+  border-radius: 0.25rem;
+  color: white; }
+
+.login > p {
+  color: white; }

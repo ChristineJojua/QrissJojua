@@ -1,0 +1,69 @@
+.info-bar {
+  margin-top: 0%;
+  height: 4vh;
+  background: #063230;
+  display: flex;
+  align-items: center; }
+
+.info {
+  color: white;
+  font-size: 1rem;
+  margin: 0 auto; }
+
+.white {
+  color: white; }
+
+#myBtn {
+  display: flex;
+  cursor: pointer; }
+
+#cart {
+  display: flex;
+  cursor: pointer; }
+
+.btn-sm {
+  width: 2.5rem;
+  opacity: 0.8;
+  height: 2.5rem;
+  border-radius: 50%;
+  background: #ffffff00;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center; }
+
+.btn-sm:hover {
+  width: 2.5rem;
+  opacity: 0.8;
+  height: 2.5rem;
+  border-radius: 50%;
+  background: #ffffff3d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center; }
+
+.nav-item > a {
+  font-size: 1.25rem; }
+
+.splide__slide img {
+  width: 40vh;
+  height: 30vh; }
+
+.nav-icons {
+  display: flex;
+  flex-direction: row; }
+
+.navbar > .container, .navbar > .container-fluid, .navbar > .container-lg, .navbar > .container-md, .navbar > .container-sm, .navbar > .container-xl, .navbar > .container-xxl {
+  display: flex;
+  flex-wrap: inherit;
+  align-items: center;
+  justify-content: flex-end; }
+
+#cart-count {
+  color: white;
+  margin-left: -1%;
+  margin-top: -0.5rem; }
+
+.first {
+  color: #063230; }

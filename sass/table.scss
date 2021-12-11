@@ -1,0 +1,56 @@
+.det{
+	font-size: 1.1rem;
+}
+
+
+.peerson-big-container{
+	display: flex;
+	flex-direction: row;
+
+}
+
+.order{
+	background-clip: border-box;
+
+	border: 1px solid rgba(0,0,0,.125);
+	border-radius: 1rem;
+	font-size: large;
+}
+
+th,
+td {
+	padding: 15px;
+	background-color: rgba(255,255,255,0.2);
+
+}
+
+th {
+	text-align: left;
+}
+
+thead {
+	th {
+		// background-color: #174c2e61!important;
+		background-color: lighten(#063230, 30%) !important;
+	}
+}
+
+tbody {
+	tr {
+		&:hover {
+			background-color: rgba(255,255,255,0.3);
+		}
+	}
+	td {
+		position: relative;
+
+	}
+}
+
+.orderLine{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+    justify-content: space-between;
+}
+

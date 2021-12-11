@@ -1,0 +1,560 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Chair_Cover",
+      "desc": "High-quality cushion cover in a festive design",
+      "category_name": "Home",
+      "price": 40,
+      "currency": "₾",
+      "img": "http://127.0.0.1:8080/assets/products/Chair_Cover.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Garland Happy Elves",
+      "desc": "Hard-working and cheerful elves watch over the pre-Christmas activity",
+      "category_name": "Home",
+      "price": 30,
+      "currency": "₾",
+      "img": "http://127.0.0.1:8080/assets/products/Garland.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Schwibbogen Christmas Market, 230V",
+      "desc": "Winter Wonderland - Schwibbogen from the Rothenburg Christmas Workshop",
+      "category_name": "Home",
+      "price": 60,
+      "currency": "₾",
+      "img": "http://127.0.0.1:8080/assets/products/Schwibbogen.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Wreath",
+      "desc": "Christmas decoration piece for your home",
+      "category_name": "Home",
+      "price": 40,
+      "currency": "₾",
+      "img": "http://127.0.0.1:8080/assets/products/wreath.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Santa",
+      "desc": "Sparkling Christmas decoration",
+      "category_name": "Handmade",
+      "price": 140,
+      "currency": "₾",
+      "img": "http://127.0.0.1:8080/assets/products/santa.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Folksy Reindeer",
+      "desc": "Decorate your home with colorful three-dimensional figures.",
+      "category_name": "Handmade",
+      "price": 100,
+      "currency": "₾",
+      "img": "http://127.0.0.1:8080/assets/products/Folksy_Reindeer.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Winter_House",
+      "desc": "Winter Wonderland - Winter figures and scenes from the Rothenburg Christmas Workshop",
+      "category_name": "Handmade",
+      "price": 70,
+      "currency": "₾",
+      "img": "http://127.0.0.1:8080/assets/products/Winter_House.jpg"
+    },
+    {
+      "id": 8,
+      "name": "product 1",
+      "desc": "Winter Wonderland - Winter figures and scenes from the Rothenburg Christmas Workshop",
+      "category_name": "Handmade",
+      "price": 140,
+      "currency": "₾",
+      "img": "http://127.0.0.1:8080/assets/products/Tavern_illuminated.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Clock",
+      "desc": "Colorful and detailed tree ornament from the Rothenburg Christmas Workshop®",
+      "category_name": "Tree",
+      "price": 40,
+      "currency": "₾",
+      "img": "http://127.0.0.1:8080/assets/products/clock.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Gingerbread Bear with Heart",
+      "desc": 2,
+      "category_name": "Tree",
+      "price": 40,
+      "currency": "₾",
+      "img": "http://127.0.0.1:8080/assets/products/Gingerbread.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Red Santa",
+      "desc": "Santa Claus is on his way! Santa with walking stick",
+      "category_name": "Tree",
+      "price": 50,
+      "currency": "₾",
+      "img": "http://127.0.0.1:8080/assets/products/red_santa.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Chair_Cover",
+      "desc": "High-quality cushion cover in a festive design",
+      "category_name": "Home",
+      "price": 40,
+      "currency": "₾",
+      "img": "http://127.0.0.1:8080/assets/products/Chair_Cover.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Garland Happy Elves",
+      "desc": "Hard-working and cheerful elves watch over the pre-Christmas activity",
+      "category_name": "Home",
+      "price": 30,
+      "currency": "₾",
+      "img": "http://127.0.0.1:8080/assets/products/Garland.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Schwibbogen Christmas Market, 230V",
+      "desc": "Winter Wonderland - Schwibbogen from the Rothenburg Christmas Workshop",
+      "category_name": "Home",
+      "price": 60,
+      "currency": "₾",
+      "img": "http://127.0.0.1:8080/assets/products/Schwibbogen.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Wreath",
+      "desc": "Christmas decoration piece for your home",
+      "category_name": "Home",
+      "price": 40,
+      "currency": "₾",
+      "img": "http://127.0.0.1:8080/assets/products/wreath.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Santa",
+      "desc": "Sparkling Christmas decoration",
+      "category_name": "Handmade",
+      "price": 140,
+      "currency": "₾",
+      "img": "http://127.0.0.1:8080/assets/products/santa.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Folksy Reindeer",
+      "desc": "Decorate your home with colorful three-dimensional figures.",
+      "category_name": "Handmade",
+      "price": 100,
+      "currency": "₾",
+      "img": "http://127.0.0.1:8080/assets/products/Folksy_Reindeer.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Winter_House",
+      "desc": "Winter Wonderland - Winter figures and scenes from the Rothenburg Christmas Workshop",
+      "category_name": "Handmade",
+      "price": 70,
+      "currency": "₾",
+      "img": "http://127.0.0.1:8080/assets/products/Winter_House.jpg"
+    },
+    {
+      "id": 19,
+      "name": "product 1",
+      "desc": "Winter Wonderland - Winter figures and scenes from the Rothenburg Christmas Workshop",
+      "category_name": "Handmade",
+      "price": 140,
+      "currency": "₾",
+      "img": "http://127.0.0.1:8080/assets/products/Tavern_illuminated.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Clock",
+      "desc": "Colorful and detailed tree ornament from the Rothenburg Christmas Workshop®",
+      "category_name": "Tree",
+      "price": 40,
+      "currency": "₾",
+      "img": "http://127.0.0.1:8080/assets/products/clock.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Gingerbread Bear with Heart",
+      "desc": 2,
+      "category_name": "Tree",
+      "price": 40,
+      "currency": "₾",
+      "img": "http://127.0.0.1:8080/assets/products/Gingerbread.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Red Santa",
+      "desc": "Santa Claus is on his way! Santa with walking stick",
+      "category_name": "Tree",
+      "price": 50,
+      "currency": "₾",
+      "img": "http://127.0.0.1:8080/assets/products/red_santa.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "product_id": 1,
+      "product_name": "Chair_Cover",
+      "product_price": 40,
+      "count": 4,
+      "user": "qriss.jojua@gmail.com",
+      "deleted": 1,
+      "totalItemPrice": 320,
+      "id": 1
+    },
+    {
+      "product_id": 2,
+      "product_name": "product 2",
+      "product_price": 40,
+      "count": 3,
+      "user": "qriss.jojua@gmail.com",
+      "deleted": 1,
+      "totalItemPrice": 160,
+      "id": 2
+    },
+    {
+      "product_id": 5,
+      "product_name": "Santa",
+      "product_price": 140,
+      "count": 1,
+      "user": "qriss.jojua@gmail.com",
+      "deleted": 1,
+      "totalItemPrice": 140,
+      "id": 3
+    },
+    {
+      "product_id": 16,
+      "product_name": "Santa",
+      "product_price": 140,
+      "count": 1,
+      "user": "qriss.jojua@gmail.com",
+      "deleted": 1,
+      "totalItemPrice": 140,
+      "id": 4
+    },
+    {
+      "product_id": 5,
+      "product_name": "Santa",
+      "product_price": 140,
+      "count": 8,
+      "user": "qriss.jojua@gmail.com",
+      "deleted": 0,
+      "totalItemPrice": 8960,
+      "id": 5
+    },
+    {
+      "product_id": 15,
+      "product_name": "Wreath",
+      "product_price": 40,
+      "count": 1,
+      "user": "qriss.jojua@gmail.com",
+      "deleted": 1,
+      "totalItemPrice": 40,
+      "id": 6
+    },
+    {
+      "product_id": 7,
+      "product_name": "Winter_House",
+      "product_price": 70,
+      "count": 2,
+      "user": "qriss.jojua@gmail.com",
+      "deleted": 1,
+      "totalItemPrice": 80,
+      "id": 7
+    },
+    {
+      "product_id": 10,
+      "product_name": "Gingerbread Bear with Heart",
+      "product_price": 40,
+      "count": 1,
+      "user": "qriss.jojua@gmail.com",
+      "deleted": 1,
+      "totalItemPrice": 40,
+      "id": 8
+    },
+    {
+      "product_id": 9,
+      "product_name": "Clock",
+      "product_price": 40,
+      "count": 2,
+      "user": "qriss.jojua@gmail.com",
+      "deleted": 1,
+      "totalItemPrice": 80,
+      "id": 9
+    },
+    {
+      "product_id": 20,
+      "product_name": "Clock",
+      "product_price": 40,
+      "count": 1,
+      "user": "qriss.jojua@gmail.com",
+      "deleted": 1,
+      "totalItemPrice": 40,
+      "id": 10
+    },
+    {
+      "product_id": 9,
+      "product_name": "Clock",
+      "product_price": 40,
+      "count": 1,
+      "user": "christine.jojua@gmail.com",
+      "deleted": 0,
+      "totalItemPrice": 40,
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "fname": "ვიქტორია",
+      "lname": "ბერიაშვილი",
+      "email": "mate@gmail.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "fname": "awdawd",
+      "lname": "awdawdaw",
+      "email": "Administrator@awdawd",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "fname": "qriss",
+      "lname": "Jojua",
+      "email": "qriss.jojua@gmail.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "fname": "Beqa",
+      "lname": "Sanaia",
+      "email": "bsanaia@gmail.com",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "fname": "nata",
+      "lname": "chkhaidze",
+      "email": "nchkhaidze@gmail.com",
+      "password": "123",
+      "id": 7
+    },
+    {
+      "fname": "Kristina",
+      "lname": "Chitaia",
+      "email": "kchitaia@gmail.com",
+      "password": "123",
+      "id": 8
+    },
+    {
+      "fname": "Vika",
+      "lname": "Vika",
+      "email": "Vika@gmail.com",
+      "password": "123",
+      "id": 9
+    },
+    {
+      "fname": "Christine",
+      "lname": "Jojua",
+      "email": "christine.jojua@gmail.com",
+      "password": "123",
+      "id": 10
+    }
+  ],
+  "orders": [
+    {
+      "orderDate": "2021-12-10T19:46:07.076Z",
+      "orderedProduct": [
+        {
+          "product_id": 1,
+          "product_name": "Chair_Cover",
+          "product_price": 40,
+          "count": 4,
+          "user": "qriss.jojua@gmail.com",
+          "deleted": 0,
+          "totalItemPrice": 320,
+          "id": 1
+        }
+      ],
+      "price": 320,
+      "status": "placed",
+      "id": 1
+    },
+    {
+      "orderDate": "2021-12-10T19:47:15.202Z",
+      "orderedProduct": [
+        {
+          "product_id": 5,
+          "product_name": "Santa",
+          "product_price": 140,
+          "count": 3,
+          "user": "qriss.jojua@gmail.com",
+          "deleted": 0,
+          "totalItemPrice": 280,
+          "id": 5
+        },
+        {
+          "product_id": 15,
+          "product_name": "Wreath",
+          "product_price": 40,
+          "count": 1,
+          "user": "qriss.jojua@gmail.com",
+          "deleted": 0,
+          "totalItemPrice": 40,
+          "id": 6
+        }
+      ],
+      "price": 320,
+      "status": "placed",
+      "id": 2
+    },
+    {
+      "orderDate": "2021-12-10T19:47:19.283Z",
+      "orderedProduct": [
+        {
+          "product_id": 5,
+          "product_name": "Santa",
+          "product_price": 140,
+          "count": 3,
+          "user": "qriss.jojua@gmail.com",
+          "deleted": 0,
+          "totalItemPrice": 280,
+          "id": 5
+        }
+      ],
+      "price": 280,
+      "status": "placed",
+      "id": 3
+    },
+    {
+      "orderDate": "2021-12-10T20:03:17.518Z",
+      "orderedProduct": [
+        {
+          "product_id": 7,
+          "product_name": "Winter_House",
+          "product_price": 70,
+          "count": 2,
+          "user": "qriss.jojua@gmail.com",
+          "deleted": 0,
+          "totalItemPrice": 80,
+          "id": 7
+        },
+        {
+          "product_id": 10,
+          "product_name": "Gingerbread Bear with Heart",
+          "product_price": 40,
+          "count": 1,
+          "user": "qriss.jojua@gmail.com",
+          "deleted": 0,
+          "totalItemPrice": 40,
+          "id": 8
+        }
+      ],
+      "price": 120,
+      "status": "placed",
+      "id": 4
+    },
+    {
+      "orderDate": "2021-12-10T20:08:28.581Z",
+      "orderedProduct": [
+        {
+          "product_id": 7,
+          "product_name": "Winter_House",
+          "product_price": 70,
+          "count": 2,
+          "user": "qriss.jojua@gmail.com",
+          "deleted": 0,
+          "totalItemPrice": 80,
+          "id": 7
+        },
+        {
+          "product_id": 15,
+          "product_name": "Wreath",
+          "product_price": 40,
+          "count": 1,
+          "user": "qriss.jojua@gmail.com",
+          "deleted": 0,
+          "totalItemPrice": 40,
+          "id": 9
+        },
+        {
+          "product_id": 20,
+          "product_name": "Clock",
+          "product_price": 40,
+          "count": 1,
+          "user": "qriss.jojua@gmail.com",
+          "deleted": 0,
+          "totalItemPrice": 40,
+          "id": 10
+        }
+      ],
+      "price": 160,
+      "status": "placed",
+      "id": 5
+    },
+    {
+      "orderDate": "2021-12-10T20:09:15.775Z",
+      "orderedProduct": [
+        {
+          "product_id": 7,
+          "product_name": "Winter_House",
+          "product_price": 70,
+          "count": 2,
+          "user": "qriss.jojua@gmail.com",
+          "deleted": 0,
+          "totalItemPrice": 80,
+          "id": 7
+        },
+        {
+          "product_id": 15,
+          "product_name": "Wreath",
+          "product_price": 40,
+          "count": 1,
+          "user": "qriss.jojua@gmail.com",
+          "deleted": 0,
+          "totalItemPrice": 40,
+          "id": 9
+        }
+      ],
+      "price": 120,
+      "status": "placed",
+      "id": 6
+    },
+    {
+      "orderDate": "2021-12-11T07:52:08.062Z",
+      "orderedProduct": [
+        {
+          "product_id": 5,
+          "product_name": "Santa",
+          "product_price": 140,
+          "count": 7,
+          "user": "qriss.jojua@gmail.com",
+          "deleted": 0,
+          "totalItemPrice": 4480,
+          "id": 5
+        },
+        {
+          "product_id": 9,
+          "product_name": "Clock",
+          "product_price": 40,
+          "count": 2,
+          "user": "qriss.jojua@gmail.com",
+          "deleted": 0,
+          "totalItemPrice": 80,
+          "id": 9
+        }
+      ],
+      "price": 4560,
+      "status": "placed",
+      "id": 7
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Berkshire Swash';
+  src: url("../fonts/BerkshireSwash-Regular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: 'SourceSansPro-Regular';
+  src: url("../fonts/SourceSansPro-Regular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: 'SourceSansPro-SemiBold';
+  src: url("../fonts/SourceSansPro-SemiBold.ttf") format("truetype");
+  /* Safari, Android, iOS */
+  src: url("../fonts/SourceSansPro-BoldIt.otf");
+  /* IE9 Compat Modes */ }

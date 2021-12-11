@@ -1,0 +1,17 @@
+.title-heading {
+  font-family: "BerkshireSwash-Regular";
+  letter-spacing: 1px; }
+
+.title-heading-text {
+  font-family: "BerkshireSwash-Regular", sans-serif;
+  font-size: x-large; }
+
+h1, h2, h4, h6, .h1, .h2, .h4, .h6 {
+  font-family: "SourceSansPro-BoldIt", sans-serif;
+  line-height: 1.5;
+  font-weight: 600; }
+
+.sourceSP {
+  font-family: "SourceSansPro-SemiBold", sans-serif;
+  line-height: 1.5;
+  font-weight: 600; }
